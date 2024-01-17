@@ -1,6 +1,8 @@
 My Spotify Data Analysis
 About the Project:
 This project explores personal Spotify listening data to uncover insights into musical preferences and listening habits. It's an engaging journey through the world of music analytics, leveraging the Spotify API to fetch data and employing Python programming skills for data manipulation and visualization.
+
+Website:
 Visit the [project website](http://192.168.1.22:8501) for more details and a live demo.
 
 Motivation:
