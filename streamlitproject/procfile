@@ -1,0 +1,1 @@
+web: streamlit run Spotify_Analysis.py
