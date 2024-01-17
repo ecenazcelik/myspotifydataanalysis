@@ -43,4 +43,4 @@ Feel free to fork this project, make changes, and open a pull request with any a
 Contact:
 Şevval Ecenaz Çelik - [ecenaz.celik@sabanciuniv.edu]
 
-Project Link: [GitHub Repository URL]
+Project Link: [https://github.com/ecenazcelik/myspotifydataanalysis.git]
