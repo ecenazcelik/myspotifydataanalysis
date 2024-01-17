@@ -3,7 +3,7 @@ About the Project:
 This project explores personal Spotify listening data to uncover insights into musical preferences and listening habits. It's an engaging journey through the world of music analytics, leveraging the Spotify API to fetch data and employing Python programming skills for data manipulation and visualization.
 
 Website:
-You can wisit the project website by downloading Spotify_Analysis.py file and run it on your terminal by streamlit run Spotify_Analysis.py in the location of the file. Note: You need to install necessary librarys such as matplotlib etc.
+You can wisit the project website by downloading Spotify_Analysis.py file and run it on your terminal by streamlit run Spotify_Analysis.py in the location of the file. Note: You need to install necessary librarys such as matplotlib etc. (You can run the .ipynb code to see the widgets as well)
 
 Motivation:
 The motivation behind this project is to understand personal music listening patterns. By analyzing data from Spotify, I aim to gain a deeper appreciation of my musical tastes and how they evolve over time. This project also serves as an excellent practice ground for honing skills in Python, data analysis, and the use of Spotify's Web API.
