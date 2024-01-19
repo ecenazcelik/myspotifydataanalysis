@@ -9,7 +9,7 @@ There is a quantifiable correlation between the audio features of tracks that I 
 A preference for tracks with specific audio features during different times of the day or week, indicating mood-based music selection.
 A significant overlap between my frequently played tracks and songs featured in global viral charts, suggesting external influence on music choice.
 
-
+ In conclusion, the outputs and analysis of my Spotify data strongly suggest that my music taste is a blend of personal mood influences and the impact of global music trends. My project effectively captures and visualizes these aspects, providing a comprehensive understanding of what forms my music preferences.
 
 Website:
 You can wisit the project website by downloading Spotify_Analysis.py file and run it on your terminal by streamlit run Spotify_Analysis.py in the location of the file. Note: You need to install necessary librarys such as matplotlib etc. (You can run the .ipynb code to see the widgets as well)
