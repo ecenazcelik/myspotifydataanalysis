@@ -7,7 +7,7 @@ The prevailing moods reflected in the audio features of my frequently played tra
 
 There is a quantifiable correlation between the audio features of tracks that I frequently listen to and my emotional state or mood. Concurrently, there is an observable trend where my music preference aligns with the attributes of songs that are globally recognized as 'viral' or 'trending'. The combination of these factors forms the basis of my music taste.
 A preference for tracks with specific audio features during different times of the day or week, indicating mood-based music selection.
-A significant overlap between the user's frequently played tracks and songs featured in global viral charts, suggesting external influence on music choice.
+A significant overlap between my frequently played tracks and songs featured in global viral charts, suggesting external influence on music choice.
 
 
 
